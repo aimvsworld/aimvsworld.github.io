@@ -5,17 +5,16 @@ const links = [
     { name: "Home", href: "/", target: "_self" },
     { name: "About", href: "/about", target: "_self" },
     { name: "Work", href: "/projects", target: "_self" },
-    { name: "Blog", href: "/blog", target: "_self" },
     { name: "Contact", href: "/contact", target: "_self" },
 ];
 ---
 
-<header class="fixed top-0 w-full z-50">
+<header class="fixed top-0 w-full z-50 bg-background">
     <div class="container mx-auto flex items-center justify-between p-6">
-        <a href="/" class="font-bold font-plex text-4xl"
-            >{SITE.TITLE.toUpperCase().charAt(0)}.</a
+        <a href="/" class="font-bold font-plex text-5xl"
+            >{SITE.TITLE.toUpperCase()}</a
         >
-        <nav class="space-x-3 text-secondary hidden md:block">
+        <nav class="space-x-3 font-bold text-2xl hidden md:block">
             {
                 links.map((link) => (
                     <a
