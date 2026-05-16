@@ -21,6 +21,9 @@ const { title, description, image = "/placeholder.png" } = Astro.props;
 <meta name="title" content={title} />
 <meta name="description" content={description} />
 
+<!-- Import base URL -->
+<base href={import.meta.env.BASE_URL} />
+
 <!-- fonts -->
 <Font cssVariable="--font-plex" preload />
 <Font cssVariable="--font-geist" preload />
