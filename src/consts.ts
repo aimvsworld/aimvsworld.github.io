@@ -1,5 +1,5 @@
 export const SITE = {
-  URL: "https://zislam4.github.io",
+  URL: "https://zislam4.github.io/amy-website",
   TITLE: "Amy Bu",
   DESCRIPTION:
     "Consultant, working on EDI, program evaluation, and data analysis.",
