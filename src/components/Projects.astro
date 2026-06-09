@@ -5,7 +5,7 @@ import { getCollection, type CollectionEntry } from "astro:content";
 
 const allProjects: CollectionEntry<"projects">[] = (
   await getCollection("projects")
-).slice(0, 3);
+).slice(0, 6);
 ---
 
 <section id="Projects" class="container mx-auto px-6">
@@ -16,11 +16,6 @@ const allProjects: CollectionEntry<"projects">[] = (
   </div>
   {allProjects.map((project) => <Card entry={project} />)}
 </section>
-
-  <div>
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSEFUVkLWcP6nhOA5gawTS4zZs1cW6rfHmMAgs1Labq16QBs4Nv9S2GMoQzeJouAHEXhH2qLP4LIisT/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
-  </iframe>
-  </div>
 
 <style>
   @keyframes scroll {

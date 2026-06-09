@@ -13,9 +13,6 @@ const allProjects: CollectionEntry<"projects">[] =
         <h2 class="heading text-5xl md:text-9xl uppercase mr-4 md:mr-8 my-8">
             work
         </h2>
-    </section>
-    <section id="Presentation" class="container mx-auto px-6 pt-18">
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSEFUVkLWcP6nhOA5gawTS4zZs1cW6rfHmMAgs1Labq16QBs4Nv9S2GMoQzeJouAHEXhH2qLP4LIisT/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
-        </iframe>
+        {allProjects.map((project) => <Card entry={project} />)}        
     </section>
 </Layout>
