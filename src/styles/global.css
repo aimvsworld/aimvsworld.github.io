@@ -19,8 +19,6 @@
 
 @theme {
   /* fonts */
-  --font-plex: "IBM Plex Mono", monospace;
-  --font-geist: "Geist", sans-serif;
   --font-oghighway: "OGHighway", sans-serif;
   --font-oghighway-heading: "OGHighwayHeading", sans-serif;
   /* colors */
@@ -49,6 +47,6 @@ body {
 
 article {
   @apply prose prose-neutral prose-img:mx-auto prose-img:my-auto text-lg leading-8;
-  @apply prose-headings:font-bold prose-headings:font-plex prose-headings:text-foreground mx-auto;
+  @apply prose-headings:font-bold prose-headings:font-oghighway-heading prose-headings:text-foreground mx-auto;
   @apply text-secondary prose-a:underline-offset-2;
 }
