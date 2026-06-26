@@ -25,7 +25,8 @@
   --font-oghighway-heading: "OGHighwayHeading", sans-serif;
   /* colors */
   --color-primary: oklch(80.5% 0.16 350.0); /* #FFA8D5 */
-  --color-background: oklch(98.09% 0.01 85.0); /* #FFFAF0 */
+  --color-background: oklch(98.4% 0.007 95.0); /* #FFFBF5 lighter yellow */
+  /*--color-background: oklch(98.09% 0.01 85.0); /* #FFFAF0 darker yellow*/
   --color-foreground: oklch(17.89% 0.19 283.0); /* #171664 */
   --color-secondary: oklch(38% 0 0); /* #434343 */
   /* --color-primary: oklch(86.89 0.29 142.02); /* #27FF0B */
