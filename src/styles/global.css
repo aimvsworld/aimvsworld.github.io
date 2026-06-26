@@ -24,10 +24,14 @@
   --font-oghighway: "OGHighway", sans-serif;
   --font-oghighway-heading: "OGHighwayHeading", sans-serif;
   /* colors */
-  --color-primary: oklch(86.89 0.29 142.02); /* #27FF0B*/
-  --color-background: oklch(99.7 0 0); /* #fefefe */
-  --color-foreground: oklch(0 0 0); /* #000000 */
-  --color-secondary: oklch(0.38 0 1); /* #434343*/
+  --color-primary: oklch(76.5% 0.22 350.0); /* #FF94CB */
+  --color-background: oklch(98.09% 0.01 85.0); /* #FFFAF0 */
+  --color-foreground: oklch(17.89% 0.19 283.0); /* #171664 */
+  --color-secondary: oklch(38% 0 0); /* #434343 */
+  /* --color-primary: oklch(86.89 0.29 142.02); /* #27FF0B */
+  /* --color-background: oklch(99.7 0 0); /* #fefefe */
+  /* --color-foreground: oklch(0 0 0); /* #000000 */
+  /* --color-secondary: oklch(0.38 0 1); /* #434343*/
 }
 
 .heading {
