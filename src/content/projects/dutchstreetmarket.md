@@ -1,6 +1,6 @@
 ---
 title: "Dutch Street Market 2024 - DutchBC"
-description: "Engaged 750,000 street festival visitors in meaningful dialogue around First Nations–Dutch relations and settler responsibility through public education installations."
+description: "Knowledge Translation & Mobilization | Stakeholder Engagement | Event Management"
 liveUrl: https://example.com
 githubUrl: https://github.com
 image: {
