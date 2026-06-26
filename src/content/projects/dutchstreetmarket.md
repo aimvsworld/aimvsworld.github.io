@@ -1,6 +1,6 @@
 ---
-title: "Dutch BC"
-description: "Dutch Street Market 2024 bla bla bla bla bla balahahahhaha bala balab ahalh alh ahahdaldh ald ahlahdaldhaldha dlah dalhd aldhadh adhladhaldh adlha dhaldhalhdalhda"
+title: "Dutch Street Market 2024 - DutchBC"
+description: "Engaged 750,000 street festival visitors in meaningful dialogue around First Nations–Dutch relations and settler responsibility through public education installations."
 liveUrl: https://example.com
 githubUrl: https://github.com
 image: {
