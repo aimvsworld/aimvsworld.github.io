@@ -2,7 +2,7 @@ export const SITE = {
   URL: "https://aimvsworld.github.io/",
   TITLE: "Amy H. Bu",
   DESCRIPTION:
-    "Research & strategy consultant offering expertise in program evaluation, strategic planning, community engagement, and data-driven decision making. <br> <br> M.A. Education, B.Sc Psychology | Social Impact, Values-driven, Equity-focused",
+    "Research & strategy consultant offering expertise in program evaluation, strategic planning, community engagement, and data-driven decision making.\n\nM.A. Education, B.Sc Psychology | Social Impact, Values-driven, Equity-focused",
   EMAIL: "hello@amyhuiyibu.com",
 };
 
