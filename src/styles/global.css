@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: "OGHighway";
-    src: url("/fonts/OCHighwayVAR2-Series3G-2.woff") format("woff");
+    src: url("/fonts/G1 WOFF2/OCHighwayVAR2-Series5G-1.woff") format("woff2");
     font-weight: normal;
     font-style: normal;
 }
@@ -24,7 +24,7 @@
   --font-oghighway: "OGHighway", sans-serif;
   --font-oghighway-heading: "OGHighwayHeading", sans-serif;
   /* colors */
-  --color-primary: oklch(76.5% 0.22 350.0); /* #FF94CB */
+  --color-primary: oklch(80.5% 0.16 350.0); /* #FFA8D5 */
   --color-background: oklch(98.09% 0.01 85.0); /* #FFFAF0 */
   --color-foreground: oklch(17.89% 0.19 283.0); /* #171664 */
   --color-secondary: oklch(38% 0 0); /* #434343 */
