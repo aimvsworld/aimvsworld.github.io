@@ -2,14 +2,14 @@ export const SITE = {
   URL: "https://aimvsworld.github.io/",
   TITLE: "Amy Bu",
   DESCRIPTION:
-    "Consultant, working on EDI, program evaluation, and data analysis.",
-  EMAIL: "hi@monolume.com",
+    "Research & Strategy consultant offering expertise in program evaluation, strategic planning, and data-driven decision making.",
+  EMAIL: "hello@amyhuiyibu.com",
 };
 
 export const HOME = {
   TITLE: "Home",
   DESCRIPTION:
-    "A personal blog about coding, building projects, and figuring things out",
+    "Amy Huiyi Bu | Research & Strategy Consultant",
 };
 
 export const BLOG = {
@@ -21,20 +21,16 @@ export const BLOG = {
 export const PROJECTS = {
   TITLE: "Projects",
   DESCRIPTION:
-    "A collection of my projects with links to repositories and live demos.",
+    "Selection of recent client projects",
 };
 
 export const SOCIALS = [
-  {
-    NAME: "X",
-    HREF: "https://x.com/your_username",
-  },
   {
     NAME: "Linkedin",
     HREF: "https://linkedin.com/",
   },
   {
-    NAME: "Github",
-    HREF: "https://github.com/your_username",
+    NAME: "UBC Centre for Migration Studies",
+    HREF: "https://migration.ubc.ca/profile/amy-huiyi-bu/",
   },
 ];
