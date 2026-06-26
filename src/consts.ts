@@ -1,8 +1,8 @@
 export const SITE = {
   URL: "https://aimvsworld.github.io/",
-  TITLE: "Amy Bu",
+  TITLE: "Amy H. Bu",
   DESCRIPTION:
-    "Research & Strategy consultant offering expertise in program evaluation, strategic planning, and data-driven decision making.",
+    "Research & strategy consultant offering expertise in program evaluation, strategic planning, community engagement, and data-driven decision making. | M.A. Education, B.Sc Psychology | Social Impact, Values-driven, Equity-focused",
   EMAIL: "hello@amyhuiyibu.com",
 };
 
@@ -27,7 +27,7 @@ export const PROJECTS = {
 export const SOCIALS = [
   {
     NAME: "Linkedin",
-    HREF: "https://linkedin.com/",
+    HREF: "https://www.linkedin.com/in/amyhuiyibu",
   },
   {
     NAME: "UBC Centre for Migration Studies",
