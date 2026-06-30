@@ -1,8 +1,7 @@
 ---
-title: "NatureKids BC Impact Assessment"
-description: "tjsfgkl;jds;lkfgj l;jsdlfkjg; lkj Impact Assessment"
-liveUrl: https://example.com
-githubUrl: https://github.com
+title: "Program Impact Assessment - NatureKids BC"
+description: "Program Evaluation | Stakeholder Engagement | Knowledge Translation"
+liveUrl: [https://aimvsworld.github.io/projects/naturekidsbc/]
 image: {
 url: "/naturekids.png",
 alt:  "NatureKids BC project thumbnail"
