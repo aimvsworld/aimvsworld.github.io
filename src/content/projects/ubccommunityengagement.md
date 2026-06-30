@@ -1,6 +1,6 @@
 ---
-title: "UBC Community Engagement"
-description: "Impact & Alignment Evaluation"
+title: "Impact & Alignment Evaluation - UBC Community Engagement"
+description: "Program Design & Strategy | Data Visualization | Database Organization"
 liveUrl: https://example.com
 githubUrl: https://github.com
 image: {
