@@ -1,4 +1,4 @@
----
+<img width="1031" height="34" alt="image" src="https://github.com/user-attachments/assets/bd78847a-1b96-470f-9210-435a9cddc3bd" />---
 title: "Program Impact Assessment - NatureKids BC"
 description: "Program Evaluation | Stakeholder Engagement | Knowledge Translation"
 liveUrl: [https://aimvsworld.github.io/projects/naturekidsbc/]
@@ -8,33 +8,11 @@ alt:  "NatureKids BC project thumbnail"
 }
 ---
 
-## Overview
+• Designed & executed a program impact study in consultation with Executive Director to measure how NatureKids BC's programs affected children's emotional wellbeing, curiosity towards nature, family cohesion, and leisure time behavior.
 
-**FormSync** is a drop-in solution for handling forms without setting up a backend. Just add a form to your site, and it handles the rest — validation, spam filtering, and sending submissions directly to your inbox.
+•	Collected 6 stakeholder interviews, 40+ qualitative and 30+ quantitative survey responses in a 2-month timeframe. Mixed-methods design included semi-structured interviews, questionnaires, and quantitative surveys based on validated instruments. 
 
-## Features
-
-- 📨 Email notifications instantly on form submission
-- 🔒 reCAPTCHA support for spam protection
-- 💾 No backend required — serverless & scalable
-- ⚙️ Simple HTML form integration
-- 📊 Optional dashboard for managing submissions
-
-## Tech Stack
-
-- **Frontend**: HTML5, minimal client JS
-- **Backend**: Serverless functions (e.g. Vercel, Netlify)
-- **Third-party**: reCAPTCHA, Email APIs (e.g. Resend)
-
-## Why I Built This
-
-Integrating backend logic just to send a contact form felt excessive — I wanted a plug-and-play solution that respected both frontend simplicity and backend power.
-
-## Links
-
-- 🔗 [Live Demo](https://formsync.dev)
-- 💾 [Source Code](https://github.com/yourusername/formsync)
+•	Analyzed data and delivered detailed project report written in layperson-accessible language for NatureKids BC staff to implement in future program designs and disseminate to interested stakeholders. Presented findings to a wide audience at the UBC “Research To Action: Urban Sustainability 2023” conference.
 
 ---
 
-_Just drop it in. It works._
