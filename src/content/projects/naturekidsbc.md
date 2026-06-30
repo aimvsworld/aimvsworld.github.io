@@ -1,4 +1,3 @@
-<img width="1031" height="34" alt="image" src="https://github.com/user-attachments/assets/bd78847a-1b96-470f-9210-435a9cddc3bd" />---
 title: "Program Impact Assessment - NatureKids BC"
 description: "Program Evaluation | Stakeholder Engagement | Knowledge Translation"
 liveUrl: [https://aimvsworld.github.io/projects/naturekidsbc/]
