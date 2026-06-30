@@ -6,6 +6,7 @@
     src: url("/fonts/g1_woff2/OCHighwayVAR2-Series7G-1.woff2") format("woff2");
     font-weight: normal;
     font-style: normal;
+    font-display: fallback;
 }
 
 @font-face {
@@ -13,6 +14,7 @@
     src: url("/fonts/og_woff2/OCHighwayVAR2-Series3.woff2") format("woff2");
     font-weight: normal;
     font-style: normal;
+    font-display: fallback;
 }
 
 @plugin '@tailwindcss/typography';
