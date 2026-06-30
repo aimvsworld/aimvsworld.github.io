@@ -1,6 +1,6 @@
 ---
-title: "UBC Sustainability"
-description: "Environmental Impact Assessment"
+title: "Environmental Impact Assessment - UBC Sustainability"
+description: "Data Strategy & Analysis | Stakeholder Engagement | Knowledge Mobilization"
 liveUrl: https://example.com
 githubUrl: https://github.com
 image: {
@@ -11,31 +11,10 @@ alt:  "UBC Sustainability thumbnail"
 
 ## Overview
 
-**FormSync** is a drop-in solution for handling forms without setting up a backend. Just add a form to your site, and it handles the rest — validation, spam filtering, and sending submissions directly to your inbox.
-
-## Features
-
-- 📨 Email notifications instantly on form submission
-- 🔒 reCAPTCHA support for spam protection
-- 💾 No backend required — serverless & scalable
-- ⚙️ Simple HTML form integration
-- 📊 Optional dashboard for managing submissions
-
-## Tech Stack
-
-- **Frontend**: HTML5, minimal client JS
-- **Backend**: Serverless functions (e.g. Vercel, Netlify)
-- **Third-party**: reCAPTCHA, Email APIs (e.g. Resend)
-
-## Why I Built This
-
-Integrating backend logic just to send a contact form felt excessive — I wanted a plug-and-play solution that respected both frontend simplicity and backend power.
-
-## Links
-
-- 🔗 [Live Demo](https://formsync.dev)
-- 💾 [Source Code](https://github.com/yourusername/formsync)
+•	Collaborated with stakeholders at UBC Sustainability, UBC Food Services (UBCFS), Nature Positive Universities, and scholars at Oxford University to analyze the environmental impacts associated with UBCFS’ food procurement in the 2022 calendar year.
+•	Led data cleaning & organization process. Developed strategies to improve efficiency and streamline cleaning and analysis, identified methods to improve data organization, and created team guidelines for cases of ambiguity.
+•	Delivered a layperson-accessible infographic, a detailed project report, and a presentation to project stakeholders to help UBCFS make informed and sustainable decisions in future food procurement activities.
 
 ---
 
-_Just drop it in. It works._
+
