@@ -11,31 +11,14 @@ alt:  "UBC Community Engagement thumbnail"
 
 ## Overview
 
-**FormSync** is a drop-in solution for handling forms without setting up a backend. Just add a form to your site, and it handles the rest — validation, spam filtering, and sending submissions directly to your inbox.
+•	Re-designed CUES and PRF community engagement funding grantee report-back process to be more concise, equitable, and mutually beneficial. 
 
-## Features
+•	Synthesized best-practice guidelines from 5+ years' worth of project report-back data to empower and support new grant applicants in both their application process and project course. 
 
-- 📨 Email notifications instantly on form submission
-- 🔒 reCAPTCHA support for spam protection
-- 💾 No backend required — serverless & scalable
-- ⚙️ Simple HTML form integration
-- 📊 Optional dashboard for managing submissions
+•	Cleaned and analyzed qualitative and quantitative application data for PRF and CUES community grant programs. This allowed the team to improve program design and increase alignment with UBC's Strategic Priorities, thus increasing the likelihood of continued funding from UBC.
 
-## Tech Stack
+•	Leveraged Python to automate geolocation data collection for 500+ partner organizations, and created Tableau maps and infographics. Demonstrated value and impact on the community by visualizing local and global program reach.
 
-- **Frontend**: HTML5, minimal client JS
-- **Backend**: Serverless functions (e.g. Vercel, Netlify)
-- **Third-party**: reCAPTCHA, Email APIs (e.g. Resend)
-
-## Why I Built This
-
-Integrating backend logic just to send a contact form felt excessive — I wanted a plug-and-play solution that respected both frontend simplicity and backend power.
-
-## Links
-
-- 🔗 [Live Demo](https://formsync.dev)
-- 💾 [Source Code](https://github.com/yourusername/formsync)
 
 ---
 
-_Just drop it in. It works._
