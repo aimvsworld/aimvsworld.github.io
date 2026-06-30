@@ -9,33 +9,12 @@ alt:  "Dutch Street Market thumbnail"
 }
 ---
 
-## Overview
+•  Researched,created,and designed 5 street-level decolonial public education installations about the ongoing history and relationships between North America and the Netherlands for the 2024 Dutch Street Market, a 3-day festival in downtown Vancouver. 
 
-**FormSync** is a drop-in solution for handling forms without setting up a backend. Just add a form to your site, and it handles the rest — validation, spam filtering, and sending submissions directly to your inbox.
+•  Established and developed relationships with vendors, partners, sponsors, and other stakeholders of the festival, leading to broadened program offerings. These included members of the community, scholars from the Netherlands, TAIWANfest, the Consulate of the Netherlands in Vancouver, HUB Cycles, Van Noort Bulbs, and the Rijksmuseum in Amsterdam.
 
-## Features
-
-- 📨 Email notifications instantly on form submission
-- 🔒 reCAPTCHA support for spam protection
-- 💾 No backend required — serverless & scalable
-- ⚙️ Simple HTML form integration
-- 📊 Optional dashboard for managing submissions
-
-## Tech Stack
-
-- **Frontend**: HTML5, minimal client JS
-- **Backend**: Serverless functions (e.g. Vercel, Netlify)
-- **Third-party**: reCAPTCHA, Email APIs (e.g. Resend)
-
-## Why I Built This
-
-Integrating backend logic just to send a contact form felt excessive — I wanted a plug-and-play solution that respected both frontend simplicity and backend power.
-
-## Links
-
-- 🔗 [Live Demo](https://formsync.dev)
-- 💾 [Source Code](https://github.com/yourusername/formsync)
+•  Programming and offerings attracted over 75,000 visitors in foot traffic.
 
 ---
 
-_Just drop it in. It works._
+
