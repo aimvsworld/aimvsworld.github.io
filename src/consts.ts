@@ -4,6 +4,7 @@ export const SITE = {
   DESCRIPTION:
     "Research & strategy consultant offering expertise in program evaluation, strategic planning, community engagement, and data-driven decision making.",
   EMAIL: "hello@amyhuiyibu.com",
+  EMAIL_LINK: "mailto:hello@amyhuiyibu.com",
 };
 
 export const HOME = {
