@@ -25,6 +25,10 @@ export const PROJECTS = {
 };
 
 export const SOCIALS = [
+   {
+    NAME: "Email",
+    HREF: "mailto:hello@amyhuiyibu.com",
+  },
   {
     NAME: "Linkedin",
     HREF: "https://www.linkedin.com/in/amyhuiyibu",
